@@ -1,2 +1,3 @@
 name: Justine Desmond
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
